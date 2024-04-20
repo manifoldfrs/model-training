@@ -1,0 +1,328 @@
+[
+    {
+        "text": "My home city is Jacobsmouth, UKRAINE. You'll find my SSN is 239--7-7-6298. Card Number: 3539879755658474. Feel free to call me at 5601850444. My Wisconsin Tax ID is 107-775327841-00. I made a payment recently, but it doesn't seem to be reflected in my balance. Prove way her machine deep child than from. Discuss soldier leave here president pattern someone.",
+        "entities": [
+            {
+                "entity": "City",
+                "value": "Jacobsmouth"
+            },
+            {
+                "entity": "Country",
+                "value": "UKRAINE"
+            },
+            {
+                "entity": "SSN",
+                "value": "239--7-7-6298"
+            },
+            {
+                "entity": "Credit Card Number",
+                "value": "3539879755658474"
+            },
+            {
+                "entity": "Phone Number",
+                "value": "5601850444"
+            },
+            {
+                "entity": "Wisconsin Tax ID",
+                "value": "107-775327841-00"
+            }
+        ]
+    },
+    {
+        "text": "Call me Kristie. I hail from 48690 Dalton Tunnel, Angelahaven, Wisconsin, 89780. Date of Birth: 05/04/1995. I need to set up a new bank account and would like some information about your services. Especially loss service able quality. Customer parent ground certainly could. Leader there political tonight traditional management fall.",
+        "entities": [
+            {
+                "entity": "First Name",
+                "value": "Kristie"
+            },
+            {
+                "entity": "Street Address",
+                "value": "48690 Dalton Tunnel"
+            },
+            {
+                "entity": "City",
+                "value": "Angelahaven"
+            },
+            {
+                "entity": "State",
+                "value": "Wisconsin"
+            },
+            {
+                "entity": "Zip Code",
+                "value": "89780"
+            },
+            {
+                "entity": "Date of Birth",
+                "value": "05/04/1995"
+            }
+        ]
+    },
+    {
+        "text": "I hail from 3498 Steve Wells, North Sarah, AK, 66454. My Social Security Number is 134--7-7-5532. DOB: 12/16/1932. Banking details: 24743511. Tax ID: 711-804539886-00. I am interested in learning more about tax credits for education expenses. Fear fill night who if. Word media radio off.",
+        "entities": [
+            {
+                "entity": "Street Address",
+                "value": "3498 Steve Wells"
+            },
+            {
+                "entity": "City",
+                "value": "North Sarah"
+            },
+            {
+                "entity": "State",
+                "value": "AK"
+            },
+            {
+                "entity": "Zip Code",
+                "value": "66454"
+            },
+            {
+                "entity": "SSN",
+                "value": "134--7-7-5532"
+            },
+            {
+                "entity": "Date of Birth",
+                "value": "12/16/1932"
+            },
+            {
+                "entity": "Bank Account Number",
+                "value": "24743511"
+            },
+            {
+                "entity": "Wisconsin Tax ID",
+                "value": "711-804539886-00"
+            }
+        ]
+    },
+    {
+        "text": "Hey, I'm DaviO. My home city is Alecburgh, SAMOA. My bank account number is 6235569359. I'm planning a birthday party for next month and need to book a venue. Could you suggest some places in the area? Short floor national she friend culture animal job. Father pick change join model senior include. Agreement provide to.",
+        "entities": [
+            {
+                "entity": "First Name",
+                "value": "David"
+            },
+            {
+                "entity": "City",
+                "value": "Alecburgh"
+            },
+            {
+                "entity": "Country",
+                "value": "SAMOA"
+            },
+            {
+                "entity": "Bank Account Number",
+                "value": "6235569359"
+            }
+        ]
+    },
+    {
+        "text": "Greetings! My name is James Juan ZUNIGA. I hail from Noahburgh, Serbia. Credit Card: 2595964294709781. My phone number is 4861201. I'd like to verify my identity for the account setup; what information do you require? Smile establish security firm military.",
+        "entities": [
+            {
+                "entity": "First Name",
+                "value": "James"
+            },
+            {
+                "entity": "Middle Name",
+                "value": "Juan"
+            },
+            {
+                "entity": "Last Name",
+                "value": "ZUNIGA"
+            },
+            {
+                "entity": "City",
+                "value": "Noahburgh"
+            },
+            {
+                "entity": "Country",
+                "value": "Serbia"
+            },
+            {
+                "entity": "Credit Card Number",
+                "value": "2595964294709781"
+            },
+            {
+                "entity": "Phone Number",
+                "value": "4861201"
+            }
+        ]
+    },
+    {
+        "text": "Hi, I go by the name of Lisa William Galvan. I hail from Christopherfurt, El Salvador. my SSN is 839-71-0715. My credit card number is 348410682193471. My number is 9454165440. WI Tax Number: 775-215848376-05. Can you provide me with details about the tax deductions applicable for homeowners? Fish cause own. Notice travel sign. Indeed business local pull with leave surface.",
+        "entities": [
+            {
+                "entity": "First Name",
+                "value": "Lisa"
+            },
+            {
+                "entity": "Middle Name",
+                "value": "William"
+            },
+            {
+                "entity": "Last Name",
+                "value": "Galvan"
+            },
+            {
+                "entity": "City",
+                "value": "Christopherfurt"
+            },
+            {
+                "entity": "Country",
+                "value": "El Salvador"
+            },
+            {
+                "entity": "SSN",
+                "value": "839-71-0715"
+            },
+            {
+                "entity": "Credit Card Number",
+                "value": "348410682193471"
+            },
+            {
+                "entity": "Phone Number",
+                "value": "9454165440"
+            },
+            {
+                "entity": "Wisconsin Tax ID",
+                "value": "775-215848376-05"
+            }
+        ]
+    },
+    {
+        "text": "I spent my childhood in 00375 Spencer Mountain Apt. 760, Stevenstad, OH, 06220. Social Security Number: 057-78-5494. My bank number is 3506435917. Card Number: 6584303663881604. I need to set up a new bank account and would like some information about your services. Contain method detail my. Rock yourself school floor hot look.",
+        "entities": [
+            {
+                "entity": "Street Address",
+                "value": "00375 Spencer Mountain Apt. 760"
+            },
+            {
+                "entity": "City",
+                "value": "Stevenstad"
+            },
+            {
+                "entity": "State",
+                "value": "OH"
+            },
+            {
+                "entity": "Zip Code",
+                "value": "06220"
+            },
+            {
+                "entity": "SSN",
+                "value": "057-78-5494"
+            },
+            {
+                "entity": "Bank Account Number",
+                "value": "3506435917"
+            },
+            {
+                "entity": "Credit Card Number",
+                "value": "6584303663881604"
+            }
+        ]
+    },
+    {
+        "text": "I'm writing to you about my property at 07503 Emily Isle Apt. 614, Brownmouth, Wyoming, 93258. my SSN is 293--7-6-4422. Date of Birth: July 28. My bank number is 4385068180. My credit card is 30360432093997. Reach me on 7041032058. Please find my Wisconsin Tax ID as: 008-552226080-06. Could you help me understand the tax exemptions available for military personnel? Meeting know last nor write. World might worry a. National situation above road large prepare down company.",
+        "entities": [
+            {
+                "entity": "Street Address",
+                "value": "07503 Emily Isle Apt. 614"
+            },
+            {
+                "entity": "City",
+                "value": "Brownmouth"
+            },
+            {
+                "entity": "State",
+                "value": "Wyoming"
+            },
+            {
+                "entity": "Zip Code",
+                "value": "93258"
+            },
+            {
+                "entity": "SSN",
+                "value": "293--7-6-4422"
+            },
+            {
+                "entity": "Date of Birth",
+                "value": "July 28"
+            },
+            {
+                "entity": "Bank Account Number",
+                "value": "4385068180"
+            },
+            {
+                "entity": "Credit Card Number",
+                "value": "30360432093997"
+            },
+            {
+                "entity": "Phone Number",
+                "value": "7041032058"
+            },
+            {
+                "entity": "Wisconsin Tax ID",
+                "value": "008-552226080-06"
+            }
+        ]
+    },
+    {
+        "text": "I'm emailing regading my property at 731 Rodriguez Parkway Apt. 323, North Jeffreyburgh, UT, 24999. SSN: 045-76-2724. I was brought into this world on October 16. I need to update my filing status following my recent marriage. Not it time industry write care end watch. Several wall fly choose various number.",
+        "entities": [
+            {
+                "entity": "Street Address",
+                "value": "731 Rodriguez Parkway Apt. 323"
+            },
+            {
+                "entity": "City",
+                "value": "North Jeffreyburgh"
+            },
+            {
+                "entity": "State",
+                "value": "UT"
+            },
+            {
+                "entity": "Zip Code",
+                "value": "24999"
+            },
+            {
+                "entity": "SSN",
+                "value": "045-76-2724"
+            },
+            {
+                "entity": "Date of Birth",
+                "value": "October 16"
+            }
+        ]
+    },
+    {
+        "text": "Hi! My name is Jessica. I grew up in 3419 Paul Haven Suite 476, West Michaelfort, FL, 64197. Social Security Number: 271--6-3-4077. I recently received a notice saying I owe $3946.72 in taxes. Could you help me understand why this is? Next because parent work. Join will southern happy.",
+        "entities": [
+            {
+                "entity": "First Name",
+                "value": "Jessica"
+            },
+            {
+                "entity": "Street Address",
+                "value": "3419 Paul Haven Suite 476"
+            },
+            {
+                "entity": "City",
+                "value": "West Michaelfort"
+            },
+            {
+                "entity": "State",
+                "value": "FL"
+            },
+            {
+                "entity": "Zip Code",
+                "value": "64197"
+            },
+            {
+                "entity": "SSN",
+                "value": "271--6-3-4077"
+            }
+        ]
+    }
+]

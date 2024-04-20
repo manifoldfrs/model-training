@@ -1,0 +1,16 @@
+torch==2.1.0
+transformers
+faker==14.1.0
+pandas==1.4.3
+numpy==1.23.1
+pytz
+accelerate
+datasets
+scikit-learn
+seqeval
+nlpaug
+nltk
+onnx
+onnxruntime
+optimum==1.16.0
+optimum[exporters]
