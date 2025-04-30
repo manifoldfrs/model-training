@@ -181,7 +181,6 @@ def tokenize_and_align_labels(
                         labels[token_index] = f"{label_prefix}{entity_type}"
                     prev_token_index = token_index
 
-    breakpoint()
     label_ids = [label_map[label] for label in labels]
     return tokenized_input, label_ids
 
